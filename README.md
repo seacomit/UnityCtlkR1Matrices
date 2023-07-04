@@ -1,7 +1,6 @@
 # UnityCtlkR1Matrices
 My code for: Catlike Coding - Rendering 1 - Matrices - https://catlikecoding.com/unity/tutorials/rendering/part-1/
 
-https://github.com/seacomit/UnityCtlkR1Matrices/assets/86527888/d2447970-e5db-48e6-b30f-1bdf3ec98776
 
 https://github.com/seacomit/UnityCtlkR1Matrices/assets/86527888/d33a354f-0497-40f7-9b43-681773944de3
 
